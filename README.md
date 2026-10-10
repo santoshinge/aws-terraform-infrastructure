@@ -13,7 +13,16 @@ The solution automatically deploys:
 
 ## Architecture
 
-![Architecture](architecture.png)
+aws-terraform-infrastructure/
+├── README.md
+├── architecture/
+│   └── aws-architecture.png
+├── main.tf
+├── provider.tf
+├── variables.tf
+├── outputs.tf
+├── versions.tf
+└── .gitignore
 
 ## Technologies Used
 
