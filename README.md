@@ -15,8 +15,6 @@ This project uses Terraform to define the following AWS resources:
 
 ## Architecture
 
-![AWS Infrastructure Architecture](architecture/aws-architecture.png)
-
 The diagram illustrates the resources defined in the Terraform configuration. Internet connectivity and public access require additional networking configuration, including an Internet Gateway, route table, and appropriate subnet settings.
 
 ## Technology Stack
